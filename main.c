@@ -3,8 +3,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-void encrypt_text(char *text, char *key);
-
 int main(int argc, char *argv[])
 {
     //A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q   R  S  T  U  V  W  X  Y  Z
